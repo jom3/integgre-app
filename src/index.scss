@@ -1,0 +1,7 @@
+#reactgrid-styles {
+  $primary-color: #6986BD !default;
+  $cell-editor-bg-color: #C9C8DA !default;
+  $cell-border-color: #3B3C40 !default;
+  $cell-font-size: 1.2rem !default;
+  @import '@silevis/reactgrid/styles.scss';
+}
